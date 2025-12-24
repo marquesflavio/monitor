@@ -1,6 +1,6 @@
-import styles from './MonitorCard.module.css';
+import styles from './MonitorTable.module.css';
 
-export const MonitorCard = () => {
+export const MonitorTable = () => {
   return (
     <section className={styles.container}>
       <span>Api Gateway</span>
